@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> melomanic.com  </title>
+<link rel="stylesheet" type="text/css" href="C:\CODSOFT INTERNSHIP\LANDING PAGE CSS\myppt.css">
+<style>
+body{
+background-image:url("https://wallpaper.dog/large/20353036.jpg");
+}
+</style>
+</head>
+<body>
+<img src="C:\CODSOFT INTERNSHIP\LANDING PAGE\musiclogo1.webp" id="img1">
+<p id="p1"> ~“Music is the literature of the heart; it commences where speech ends.” </p>
+<h1> <a href="https://my.clevelandclinic.org/health/treatments/8817-music-therapy#:~:text=What%20is%20music%20therapy%3F,or%20improving%20quality%20of%20life.">MUSETHERAPY!!</a> </h1>
+<input type="text" placeholder="Search here..." align="right"> 
+ <ul>
+ <li class="li"> <abbr title= "Home"> <img src="C:\CODSOFT INTERNSHIP\LANDING PAGE\home2.jpg" height=4% width=4%> </abbr> </li>
+ <li class="li"> <abbr title="Search"> <img src="C:\CODSOFT INTERNSHIP\LANDING PAGE\search2.png"height=4% width=4%> </abbr> </li>
+ <li class="li"> <abbr title="Playlists"> <img src="C:\CODSOFT INTERNSHIP\LANDING PAGE\play2.png" height=4% width=4%> </abbr> </li>
+</ul>
+<abbr title="One Direction Mix"><img src="C:\CODSOFT INTERNSHIP\LANDING PAGE\musicimg1.jpeg" id="img2"> </abbr>
+<button id="p2"> Groove in to the latest releases by One Direction!!! </button>	     
+</body>
+</html>
+
+	
